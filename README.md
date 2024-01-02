@@ -5,3 +5,10 @@
 - admin and customer dashboard seperate 
 - url share
 - basic url analytics
+
+|Profile dashboard | Admin dashboard |
+|-|-|
+| ![Profile login](/images/c-login.png) | ![Admin login](/images/a-login.png) |
+| ![Profile dashboard](/images/c-dashboard.png) | ![Admin dashboard](/images/a-dashboard.png) |
+| ![Profile urls](/images/c-urls.png) | ![Admin urls](/images/a-urls.png) |
+| ![Profile url edit](/images/c-url-edit.png) | ![Admin url edit](/images/a-url-edit.png) |
